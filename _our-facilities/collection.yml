@@ -2,6 +2,7 @@ collections:
   our-facilities:
     output: true
     order:
+      - Food from the Heart Distribution Programme.md
       - Monthly Birthday Celebration for Residents.md
       - Befriender Programme.md
       - Befriender Programme (C).md

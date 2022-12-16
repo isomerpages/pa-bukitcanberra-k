@@ -1,5 +1,5 @@
 collections:
-  our-facilities:
+  archive:
     output: true
     order:
       - Test Archive.md

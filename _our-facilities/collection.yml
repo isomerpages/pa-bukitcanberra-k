@@ -2,6 +2,7 @@ collections:
   our-facilities:
     output: true
     order:
+      - SPARKS Vision.md
       - Language Classes for Foreign Care Staff.md
       - Virtual Programme Coordinator.md
       - Online Befriender Programme.md

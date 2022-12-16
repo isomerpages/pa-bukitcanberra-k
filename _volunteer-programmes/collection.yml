@@ -2,5 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Health & Wellness/.keep
       - Smart Nation/Intergeneration Programme Coordinator.md
       - Smart Nation/.keep

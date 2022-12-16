@@ -2,6 +2,8 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Caring for Our Community/National Kidney Foundation (NKF) Volunteer
+        Programme at Dialysis Centre.md
       - Caring for Our Community/Volunteer Storytellers.md
       - Caring for Our Community/Hawkers Day.md
       - Caring for Our Community/.keep

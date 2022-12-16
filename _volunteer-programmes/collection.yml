@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Caring for Our Community/.keep
       - Health & Wellness/Virtual Zumba or Exercise Instructors.md
       - Health & Wellness/Activity Pack Designers.md
       - Health & Wellness/Morning Exercise Facilitators.md

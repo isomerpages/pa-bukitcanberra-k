@@ -2,6 +2,7 @@ collections:
   our-facilities:
     output: true
     order:
+      - Test Archive.md
       - SPARKS Vision.md
       - Language Classes for Foreign Care Staff.md
       - Virtual Programme Coordinator.md

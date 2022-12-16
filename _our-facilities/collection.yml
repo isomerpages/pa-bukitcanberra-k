@@ -2,6 +2,7 @@ collections:
   our-facilities:
     output: true
     order:
+      - Online Befriender Programme.md
       - Medical Escort.md
       - Food from the Heart Distribution Programme.md
       - Monthly Birthday Celebration for Residents.md

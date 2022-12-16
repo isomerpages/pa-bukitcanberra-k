@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Marketing Video.md
-      - Our Success Stories.md
       - SPARKS Mission & Vision.md
+      - Our Success Stories.md
+      - Marketing Video.md

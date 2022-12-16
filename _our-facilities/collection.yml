@@ -1,4 +1,5 @@
 collections:
   our-facilities:
     output: true
-    order: []
+    order:
+      - Befriender Programme (C).md

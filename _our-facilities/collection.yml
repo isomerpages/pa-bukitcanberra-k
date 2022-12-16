@@ -2,4 +2,5 @@ collections:
   our-facilities:
     output: true
     order:
+      - Befriender Programme.md
       - Befriender Programme (C).md

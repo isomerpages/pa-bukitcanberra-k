@@ -2,5 +2,6 @@ collections:
   our-facilities:
     output: true
     order:
+      - Monthly Birthday Celebration for Residents.md
       - Befriender Programme.md
       - Befriender Programme (C).md

@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Going Green Together/.keep
       - Caring for Our Community/Programme Curators.md
       - Caring for Our Community/National Kidney Foundation (NKF) Volunteer
         Programme at Dialysis Centre.md

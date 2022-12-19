@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Volunteer Programmes.md
       - Nurturing Our Children/.keep
       - Arts & Heritage/.keep
       - Going Green Together/.keep

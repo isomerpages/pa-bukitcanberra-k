@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Volunteer Programmes.md
+      - Nurturing Our Children/It's Storytime.md
       - Nurturing Our Children/Community Tuition Programme.md
       - Nurturing Our Children/.keep
       - Arts & Heritage/.keep

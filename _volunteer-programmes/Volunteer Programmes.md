@@ -81,7 +81,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Beach-Cleaning-and-Environment-Group" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Beach%20Cleaning%20&%20Environment%20Group%203-1.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Beach%20Cleaning%20&%20Environment%20Group%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -89,7 +89,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Gardens-Give-Back" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Gardens%20Give%20back%20.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Gardens%20Give%20back%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -105,7 +105,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Befrienders-for-the-Elderly" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Befriending%20the%20elderly.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Befrienders%20for%20the%20Elderly%202.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -113,7 +113,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Food-from-the-Heart" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Food%20From%20The%20Heart%203-1.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Food%20From%20The%20Heart%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>

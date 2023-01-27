@@ -9,7 +9,7 @@ third_nav_title: Going Green Together
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Beach%20Cleaning%20&%20Environment%20Group%203.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Beach%20Cleaning%20&%20Environment%20Group%203.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">

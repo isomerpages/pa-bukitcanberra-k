@@ -121,7 +121,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Sewing-Community-Initiative/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Sewing%20Community%20Initiative.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Sewing%20Community%20Initiative.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -129,7 +129,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Programme-Curators/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Programme%20Curators%203-1.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Programme%20Curators%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -137,7 +137,7 @@ description: ""
 <li>
 	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/National-Kidney-Foundation-NKF-Volunteer-Programme-at-Dialysis-Centre/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/NKF%20Volunteers.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/NKF%20Volunteers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -145,7 +145,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Volunteer-Storytellers" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Volunteer%20Storytellers%20.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Volunteer%20Storytellers%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -153,7 +153,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Hawkers-Day/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Hawkers%20Day.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Hawkers%20Day.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>

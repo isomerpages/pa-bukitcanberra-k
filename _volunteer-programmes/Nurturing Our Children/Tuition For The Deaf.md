@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Tuition%20for%20the%20Deaf%201.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Tuition%20for%20the%20Deaf%201.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -115,7 +115,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Tuition%20for%20the%20Deaf.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Tuition%20for%20the%20Deaf.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

@@ -9,7 +9,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Sembawang%20Heritage%20Ambassadors%203.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Sembawang%20Heritage%20Ambassadors%203.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -115,7 +115,7 @@ Canberra Grassroots Organisations
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Sembawang%20Heritage%20Ambassadors-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Sembawang%20Heritage%20Ambassadors-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

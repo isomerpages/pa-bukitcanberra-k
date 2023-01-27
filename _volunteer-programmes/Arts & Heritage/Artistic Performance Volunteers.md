@@ -10,7 +10,7 @@ Volunteers**
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Arts%20Performing.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Arts%20Performing.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -119,7 +119,7 @@ Volunteers
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Art%20Performance%20Volunteers.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Art%20Performance%20Volunteers.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/It's%20Storytime.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -114,7 +114,7 @@ c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/It's%20Storytime-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

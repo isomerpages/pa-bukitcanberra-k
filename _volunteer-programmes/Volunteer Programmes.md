@@ -169,7 +169,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Virtual-Zumba-or-Exercise-Instructors" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Virtual%20Zumba%20or%20Exercise%20Instructors%201A.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Virtual%20Zumba%20or%20Exercise%20Instructors%201A.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -177,7 +177,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Activity-Pack-Designers" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Activity%20Pack%20Designers.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Activity%20Pack%20Designers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -185,7 +185,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Morning-Exercise-Facilitators" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Morning%20Exercise%20Facilitators.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Morning%20Exercise%20Facilitators.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -203,7 +203,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Intergeneration-Programme-Coordinator" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Intergeneration%20Programme%20Coordinator%201A.png">
+      <img style="height:250px;width:228px;" src="/images/Volunteer%20Programmes/Intergeneration%20Programme%20Coordinator%201A.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>

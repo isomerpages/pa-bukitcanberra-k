@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Community%20Tuition%20Programme.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Community%20Tuition%20Programme.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -19,7 +19,7 @@ third_nav_title: Nurturing Our Children
 					</td>
 					<td width="5%">
 						:
-					</td><
+					</td>
 					<td  width="75%">
 						Community Tuition Programme
 					</td>
@@ -116,7 +116,7 @@ b) Min. Age: 17 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Community%20Tuition%20QR%20code.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Community%20Tuition%20QR%20code.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

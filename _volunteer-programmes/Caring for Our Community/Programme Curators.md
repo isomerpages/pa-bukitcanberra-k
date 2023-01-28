@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Programme%20Curators%203%20(1).png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Programme%20Curators%203%20(1).png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -116,7 +116,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%"> 
-			<img src="/images/Programme%20Curators.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Programme%20Curators.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Volunteering%20Initiatives%20@NKF.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Volunteering%20Initiatives%20@NKF.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -119,7 +119,7 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/NKF%20Volunteers-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/NKF%20Volunteers-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

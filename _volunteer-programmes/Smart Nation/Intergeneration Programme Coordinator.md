@@ -9,7 +9,7 @@ third_nav_title: Smart Nation
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Intergeneration%20Programme%20Coordinator%201.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Intergeneration%20Programme%20Coordinator%201.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -115,7 +115,7 @@ third_nav_title: Smart Nation
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Intergeneration%20Programme%20Coordinator-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Intergeneration%20Programme%20Coordinator-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

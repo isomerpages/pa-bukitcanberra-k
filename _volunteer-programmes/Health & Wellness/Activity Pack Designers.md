@@ -9,7 +9,7 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Activity%20Pack.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Activity%20Pack.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -116,7 +116,7 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Senior%20Activity%20Pack%20Designers-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Senior%20Activity%20Pack%20Designers-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

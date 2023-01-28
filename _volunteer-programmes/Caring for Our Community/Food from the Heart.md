@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Food%20From%20The%20Heart%203.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Food%20From%20The%20Heart%203.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
@@ -117,7 +117,7 @@ b) Min. Age: 13
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Food%20from%20the%20Heart%20(SC)-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Food%20from%20the%20Heart%20(SC)-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

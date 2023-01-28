@@ -13,7 +13,7 @@ Please drop us an email at sparks@pa.gov.sg<br>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Sparks%20Volunteer%20Recruitment%20Form%20(Don).png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Sparks%20Volunteer%20Recruitment%20Form%20(Don).png" style="width=200px;height=auto;"/>
 		</td>
 		<td>        
 			&nbsp;

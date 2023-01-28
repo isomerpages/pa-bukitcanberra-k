@@ -9,7 +9,7 @@ third_nav_title: Going Green Together
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/Volunteer%20Programmes/Garden%20Gives%20back.png">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -114,7 +114,7 @@ third_nav_title: Going Green Together
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20Back-QR.png">
+			<img style="width=200px;height=auto;" src="/images/Volunteer%20Programmes/Garden%20Gives%20Back-QR.png">
 		</td>
 		<td>
 			&nbsp;

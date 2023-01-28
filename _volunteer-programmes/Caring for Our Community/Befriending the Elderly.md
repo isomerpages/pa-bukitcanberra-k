@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Befrienders%20for%20the%20Elderly%202-1.png" 
+			<img src="/images/Volunteer%20Programmes/Befrienders%20for%20the%20Elderly%202-1.png" 
 					 style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
@@ -117,7 +117,7 @@ b) Min. Age: 15 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Programmes/Canberra%20Befrienders%20for%20the%20Elderly-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;

@@ -1,0 +1,32 @@
+collections:
+  volunteer-programmes:
+    output: true
+    order:
+      - Volunteer Programmes.md
+      - Nurturing Our Children/.keep
+      - Nurturing Our Children/Community Tuition Programme.md
+      - Nurturing Our Children/It's Storytime.md
+      - Nurturing Our Children/KidsREAD Club Programme.md
+      - Nurturing Our Children/Tuition For The Deaf.md
+      - Arts & Heritage/Sembawang Heritage Ambassadors.md
+      - Arts & Heritage/Virtual Arts & Crafts Instructors.md
+      - Arts & Heritage/Artistic Performance Volunteers.md
+      - Arts & Heritage/.keep
+      - Going Green Together/Beach Cleaning & Environment Group.md
+      - Going Green Together/Gardens Give Back.md
+      - Going Green Together/.keep
+      - Caring for Our Community/Befriending the Elderly.md
+      - Caring for Our Community/Food from the Heart.md
+      - Caring for Our Community/Sewing Community Initiative.md
+      - Caring for Our Community/Programme Curators.md
+      - Caring for Our Community/National Kidney Foundation (NKF) Volunteer
+        Programme at Dialysis Centre.md
+      - Caring for Our Community/Volunteer Storytellers.md
+      - Caring for Our Community/Hawkers Day.md
+      - Caring for Our Community/.keep
+      - Health & Wellness/Virtual Zumba or Exercise Instructors.md
+      - Health & Wellness/Activity Pack Designers.md
+      - Health & Wellness/Morning Exercise Facilitators.md
+      - Health & Wellness/.keep
+      - Smart Nation/Intergeneration Programme Coordinator.md
+      - Smart Nation/.keep

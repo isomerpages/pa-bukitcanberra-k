@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - SPARKS Mission & Vision.md
+      - Our Success Stories.md
+      - Marketing Video.md
